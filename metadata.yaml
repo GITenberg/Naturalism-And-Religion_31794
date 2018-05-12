@@ -32,6 +32,8 @@ creator:
     gutenberg_agent_id: '6305'
     url: http://www.gutenberg.org/2009/agents/6305
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31794#Naturalism-And-Religion
 gutenberg_issued: '2009-03-27'
 gutenberg_type: Text
 identifiers:

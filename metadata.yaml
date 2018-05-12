@@ -1,0 +1,48 @@
+_repo: Naturalism-And-Religion_31794
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Thomson, Margaret R.
+    gutenberg_agent_id: '41553'
+    url: http://www.gutenberg.org/2009/agents/41553
+  - agent_name: Thomson, J. Arthur (John Arthur)
+    alias: Thomson, John Arthur
+    birthdate: 1861
+    deathdate: 1933
+    gutenberg_agent_id: '9286'
+    url: http://www.gutenberg.org/2009/agents/9286
+    wikipedia: http://en.wikipedia.org/wiki/J._Arthur_Thomson
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Otto, Rudolf
+    alias: Otto, Karl Ludwig Rudolf
+    birthdate: 1869
+    deathdate: 1937
+    gutenberg_agent_id: '35472'
+    url: http://www.gutenberg.org/2009/agents/35472
+    wikipedia: http://en.wikipedia.org/wiki/Rudolf_Otto
+  editor:
+    agent_name: Morrison, William Douglas
+    alias: Morrison, W. D. (William Douglas)
+    birthdate: 1852
+    deathdate: 1943
+    gutenberg_agent_id: '6305'
+    url: http://www.gutenberg.org/2009/agents/6305
+description: ''
+gutenberg_issued: '2009-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31794'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religion and science'
+- !lcsh 'Naturalism'
+- !lcc 'BL'
+title: Naturalism And Religion
+url: http://www.gutenberg.org/ebooks/31794
